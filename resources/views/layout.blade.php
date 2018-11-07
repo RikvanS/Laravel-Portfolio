@@ -30,7 +30,6 @@
     <span class="logo">RvS</span>
 </a>
 <!-- <a class="bio" href="/bio">About me</a> -->
-    <a href="/test">test</a>
     </header>
 
     <button id="topbutton" title="Go to top" onclick="topFunction()">Top</button>
